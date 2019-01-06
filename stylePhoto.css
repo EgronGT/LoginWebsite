@@ -1,0 +1,43 @@
+ 
+ #content{
+    width: 95%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #2c0101;
+     background:rgba(160, 137, 95, 0.548);
+}
+
+form{
+    width: 5%;
+    margin: 0px auto;
+}
+form div{
+    margin-top: 5px;
+}
+#img_div{
+    width: 85%;
+    padding: 5px;
+    margin: 5px auto;
+    border: 1px solid #49150c;
+}
+#img_div:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+p{
+    padding: 0px;
+    width: 50%;
+    float: right;
+    color:rgba(0, 0, 0, 0.973);
+    font-family: 'Great Vibes', cursive;
+}
+img{
+    float: left;
+    margin: 3px;
+    width: 500px;
+    height: 300px;
+    border: 5px solid #57bd5f79;
+}
+
+ 
